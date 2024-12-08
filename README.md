@@ -4,11 +4,14 @@
 
 My Works
 
-## Languages and Tools 
-![postman](https://img.shields.io/badge/-POSTMAN-792909?style=for-the-badge&logo=postman)
+### Languages and Tools 
+![postman](https://img.shields.io/badge/-POSTMAN-090909?style=for-the-badge&logo=postman)
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub)
-![Charles](https://img.shields.io/badge/-Charles-939393?style=for-the-badge&logo=Charles)
-![SQL](https://img.shields.io/badge/-SQL-004050?style=for-the-badge&logo=MYSQL)
+![Charles](https://img.shields.io/badge/-Charles-090909?style=for-the-badge&logo=Charles)
+![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=MYSQL)
+![DevTools](https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=DevTools)
 
+### Contact Me
 
-Follow Me
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/eknas13)
+[![HeadHunter](https://img.shields.io/badge/-HeadHunter-090909?style=for-the-badge&logo=HeadHunter)](https://spb.hh.ru/applicant/resumes/view?resume=169bd7b7ff02376d950039ed1f544259326f63)
