@@ -4,6 +4,11 @@
 
 My Works
 
-Languages and Tools 
+## Languages and Tools 
+![postman](https://img.shields.io/badge/-POSTMAN-792909?style=for-the-badge&logo=postman)
+![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub)
+![Charles](https://img.shields.io/badge/-Charles-939393?style=for-the-badge&logo=Charles)
+![SQL](https://img.shields.io/badge/-SQL-004050?style=for-the-badge&logo=MYSQL)
+
 
 Follow Me
